@@ -1,4 +1,13 @@
 #bt1-alert,
-#bt2-alert {
+#bt2-alert,
+#bt3-alert {
   display: none;
+}
+
+.bg-red {
+  background-color: #f2645d;
+}
+
+.bg-blue {
+  background-color: #7195c0;
 }

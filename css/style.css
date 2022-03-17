@@ -1,6 +1,8 @@
 #bt1-alert,
 #bt2-alert,
-#bt3-alert {
+#bt3-alert,
+#bt5-alert,
+#div-bt4 {
   display: none;
 }
 

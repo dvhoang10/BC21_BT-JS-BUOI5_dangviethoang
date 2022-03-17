@@ -7,5 +7,6 @@ document.getElementById("btn-bt4").addEventListener("click", function () {
     } else s += `<div class='bg-blue'>${i}</div>`;
   }
   document.getElementById("div-bt4").innerHTML = s;
+  document.getElementById("div-bt4").style.display = "block";
   //   console.log(s);
 });
